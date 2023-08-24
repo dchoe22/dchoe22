@@ -1,0 +1,52 @@
+# Hello, I'm Dong Choe 👋
+
+I'm a budding data scientist and analyst, passionate about unlocking insights from data and leveraging them to drive decision-making and innovation. With a strong foundation in Python, SQL, and Machine Learning, I'm on a mission to harness the power of data to solve real-world problems.
+
+## 🌱 What I'm Currently Learning
+
+Advanced statistical modeling  
+Deep learning techniques with TensorFlow and Keras  
+Long Short Term Memory (LSTM)  
+Facebook Prophet  
+Natural Language Processing (NLP)  
+
+## 🚀 My Projects
+
+**Sentiment Analysis:** Utilized TensorFlow to build a Sequential neural network model using NLP techniques, aiming to classify sentiments from Amazon customer reviews. The model was designed to categorize reviews as positive or negative, providing valuable insights into product reception.
+
+**Market Basket Analysis:** Conducted a market basket analysis by employing data preprocessing techniques on a dataset. The dataset was transformed for association rule mining to derive insights into customer purchasing patterns.
+
+**K-Means Clustering:** Performed k-means clustering on a telecommunication dataset. The elbow method was used to determine the optimal clusters and a silhouette score was used to evaluated cluster. The resulting cluster groups were visualized for better representation.
+
+**Data Cleaning/Exploratory Data Analysis:** Managed data preparation, cleaning, and exploratory data analysis (EDA) for a project. Imported and assessed the dataset for integrity, adjusted data types, and performed EDA to uncover underlying data patterns.
+
+## 💼 Professional Experience
+
+**Management & Program Analyst** @ Department of Energy (Current):  
+•	Serving as an analyst/advisor to senior officials for state and local government programs.  
+•	Analyzing data, focusing on metrics like energy and cost savings for states, local governments, and K-12 schools.
+
+**Policy Analyst** @ Department of the Interior (3 Years):  
+•	Championed cross-functional synergy among subject matter experts in energy, public policy, and analysis to establish the creation of a comprehensive energy plan to transition to 100% renewable energy.  
+•	Developed a dashboard by collecting and cleaning five years' worth of technical assistance grants data. This initiative not only provided leadership with invaluable insights into trends but also promoted a culture of data-driven decision-making.
+
+**Research Analyst** @ Office of the Lt. Governor of Guam (2 Years):  
+•	Conducted qualitative and quantitative analysis, leading to the development of impactful government policies, and producing actionable insights.  
+•	Created insightful data visualization by translating data analysis into non-technical terms to support decision-making and improve efficiency. 
+
+**Program Manager** @ Guam Economic Development Authority (2 Years):  
+•	Developed revenue strategies through an in-depth analysis of two decades' worth of data from the commercial lease program. This analysis revealed crucial collection gaps, informing the creation of improved strategies.  
+•	Generated data-driven financial reports and presentations tailored for management and stakeholders, providing actionable insights to inform strategic decisions and enhance transparency.
+
+## 🛠️ Skills & Tools
+
+**Programming:** Python, SQL  
+**Data Visualization:** Matplotlib, Seaborn, Tableau  
+**Machine Learning:** Scikit-learn, TensorFlow, Keras  
+**Data Manipulation:** Pandas, NumPy  
+**Databases:** SQL (PostgreSQL, BigQuery)  
+
+## 📫 How to Reach Me
+
+**LinkedIn:** https://www.linkedin.com/in/dongchoe  
+**Email:** choe.dong@gmail.com
