@@ -25,8 +25,8 @@ Natural Language Processing (NLP)
 ## 💼 Professional Experience
 
 **Management & Program Analyst** @ Department of Energy (Current):  
-•	Serving as an analyst/advisor to senior officials for state and local government programs.  
-•	Analyzing data, focusing on metrics like energy and cost savings for states, local governments, and K-12 schools.
+•	Providing program analysis, emphasizing energy and cost efficiency. Supporting clean energy adoption through solution assessment.  
+•	Guiding policy interpretation, offering effective organizational insights. Advising leadership for progress and anticipating areas of improvement through analysis.
 
 **Policy Analyst** @ Department of the Interior (3 Years):  
 •	Championed cross-functional synergy among subject matter experts in energy, public policy, and analysis to establish the creation of a comprehensive energy plan to transition to 100% renewable energy.  
