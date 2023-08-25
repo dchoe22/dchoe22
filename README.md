@@ -12,6 +12,8 @@ Natural Language Processing (NLP)
 
 ## 🚀 My Projects
 
+**Foodborne Illness Forecasting:** Leveraged the SARIMA time series model to predict foodborne illnesses in the U.S. using data from the Center for Disease Control and Prevention. The analysis aimed to identify trends and seasonality in historical data to forecast future occurrences. However, the model faced challenges in capturing the irregularities, prompting recommendations for alternative forecasting methods.
+
 **Sentiment Analysis:** Utilized TensorFlow to build a Sequential neural network model using NLP techniques, aiming to classify sentiments from Amazon customer reviews. The model was designed to categorize reviews as positive or negative, providing valuable insights into product reception.
 
 **Market Basket Analysis:** Conducted a market basket analysis by employing data preprocessing techniques on a dataset. The dataset was transformed for association rule mining to derive insights into customer purchasing patterns.
