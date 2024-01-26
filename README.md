@@ -25,20 +25,25 @@ Natural Language Processing (NLP)
 ## 💼 Professional Experience
 
 **Management & Program Analyst** @ Department of Energy (Current):  
-•	Providing program analysis, emphasizing energy and cost efficiency. Supporting clean energy adoption through solution assessment.  
-•	Guiding policy interpretation, offering effective organizational insights. Advising leadership for progress and anticipating areas of improvement through analysis.
+•	Acting Product Manager for two web-based energy data analytics tools in collaboration with the National Renewable Energy Laboratory (NREL), delivering technical assistance and expertise to state government, local government, and various organizations to facilitate informed decision-making in the field of renewable energy and sustainability.
+•	Providing program analysis, emphasizing energy and cost efficiency. Supporting clean energy adoption through solution assessment.
+
 
 **Policy Analyst** @ Department of the Interior (3 Years):  
-•	Championed cross-functional synergy among subject matter experts in energy, public policy, and analysis to establish the creation of a comprehensive energy plan to transition to 100% renewable energy.  
 •	Developed a dashboard by collecting and cleaning five years' worth of technical assistance grants data. This initiative not only provided leadership with invaluable insights into trends but also promoted a culture of data-driven decision-making.
+•	Provided essential technical guidance and strategic counsel to the local government throughout the COVID-19 pandemic, enabling them to maximize the utilization of Office of Insular Affairs funding for an effective pandemic response, safeguarding community well-being and optimizing resource allocation.
+•	Championed cross-functional synergy among subject matter experts in energy, public policy, and analysis to establish the creation of a comprehensive energy plan to transition to 100% renewable energy.
 
-**Research Analyst** @ Office of the Lt. Governor of Guam (2 Years):  
-•	Conducted qualitative and quantitative analysis, leading to the development of impactful government policies, and producing actionable insights.  
-•	Created insightful data visualization by translating data analysis into non-technical terms to support decision-making and improve efficiency. 
+
+**Data Analyst** @ Office of the Lt. Governor of Guam (2 Years):  
+•	Collaborated closely with senior government officials to formulate and shape impactful government policies, influencing key operational strategies and budget decisions to align with organizational objectives, enhance efficiency, and optimize resource allocation.
+•	Conducted qualitative and quantitative analysis, leading to the development of impactful government policies, and producing actionable insights.
+•	Created insightful data visualization by translating data analysis into non-technical terms to support decision-making and improve efficiency.
 
 **Program Manager** @ Guam Economic Development Authority (2 Years):  
-•	Developed revenue strategies through an in-depth analysis of two decades' worth of data from the commercial lease program. This analysis revealed crucial collection gaps, informing the creation of improved strategies.  
+•	Developed revenue strategies through an in-depth analysis of two decades' worth of data from the commercial lease program. This analysis revealed crucial collection gaps, informing the creation of improved strategies.
 •	Generated data-driven financial reports and presentations tailored for management and stakeholders, providing actionable insights to inform strategic decisions and enhance transparency.
+
 
 ## 🛠️ Skills & Tools
 
